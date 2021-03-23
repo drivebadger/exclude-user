@@ -16,6 +16,7 @@ Clone this repository as `/opt/drivebadger/config/exclude-user` directory on you
 ### FAQ
 
 Q: Why `avi`/`mkv`/`rmvb` movies are excluded from exfiltration, while `3gp`/`flv`/`mp4`/`webm`/`wmv` not?
+
 A: Movies with `3gp`/`flv`/`mp4`/`webm`/`wmv` extensions are often user-generated content (by photo cameras, phones etc.), while `avi`/`mkv`/`rmvb` files
 are considered "external movies" (eg. downloaded commercial movies) - usually very big, and not valuable at the same time. You can change this behavior:
 
