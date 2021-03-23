@@ -7,7 +7,6 @@ by eliminating files and directories, that are not valuable in any way to the at
 - game directories
 - image files containing encrypted filesystems
 - Mozilla Firefox/Thunderbird caches
-- Microsoft WIM archives
 - Windows search telemetry
 
 ### Installing
