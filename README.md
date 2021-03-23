@@ -13,6 +13,16 @@ by eliminating files and directories, that are not valuable in any way to the at
 
 Clone this repository as `/opt/drivebadger/config/exclude-user` directory on your Drive Badger persistent partition.
 
+### FAQ
+
+Q: Why `avi`/`mkv`/`rmvb` movies are excluded from exfiltration, while `3gp`/`flv`/`mp4`/`webm`/`wmv` not?
+A: Movies with `3gp`/`flv`/`mp4`/`webm`/`wmv` extensions are often user-generated content (by photo cameras, phones etc.), while `avi`/`mkv`/`rmvb` files
+are considered "external movies" (eg. downloaded commercial movies) - usually very big, and not valuable at the same time. You can change this behavior:
+
+- by forking this repository and cloning your fork instead of the original one
+- by making a local change directly on Drive Badger USB device
+
+
 ### More information
 
 - [Drive Badger main repository](https://github.com/drivebadger/drivebadger)
