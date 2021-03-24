@@ -12,6 +12,10 @@
 *.crypt
 *.encrypted
 
+hiberfil.sys
+pagefile.sys
+swapfile.sys
+
 mnt/games
 mnt/gry
 
