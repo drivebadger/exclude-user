@@ -1,8 +1,18 @@
 *.rmvb
 *.avi
 *.mkv
+*.vob
+*.ape
 *.mp3
 *.flac
+
+*.RMVB
+*.AVI
+*.MKV
+*.VOB
+*.APE
+*.MP3
+*.FLAC
 
 *.fs
 *.tc
