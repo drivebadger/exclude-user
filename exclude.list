@@ -29,8 +29,13 @@ swapfile.sys
 mnt/games
 mnt/gry
 
+mnt/Games
+mnt/Gry
+
 AppData/Local/Google/Chrome
 AppData/Local/Mozilla/Firefox
 AppData/Local/Thunderbird
 
 Microsoft/Search/Data
+
+Program Files/WindowsApps
