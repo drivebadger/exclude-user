@@ -26,6 +26,8 @@ hiberfil.sys
 pagefile.sys
 swapfile.sys
 
+mnt/drivers
+
 mnt/games
 mnt/gry
 
@@ -35,6 +37,9 @@ mnt/Gry
 AppData/Local/Google/Chrome
 AppData/Local/Mozilla/Firefox
 AppData/Local/Thunderbird
+
+Mozilla/Firefox/Profiles/*/Cache
+Mozilla/Firefox/Profiles/*/cache2
 
 Microsoft/Search/Data
 
