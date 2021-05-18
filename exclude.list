@@ -40,6 +40,7 @@ AppData/Local/Thunderbird
 
 Mozilla/Firefox/Profiles/*/Cache
 Mozilla/Firefox/Profiles/*/cache2
+mozilla/firefox/*/cache2
 
 Microsoft/Search/Data
 
