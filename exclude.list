@@ -36,7 +36,16 @@ mnt/Gry
 
 AppData/Local/Google/Chrome
 AppData/Local/Mozilla/Firefox
+AppData/Local/Programs/Opera GX
+AppData/Local/Roblox/Downloads
+AppData/Local/Roblox/Versions
+AppData/Local/Steam/htmlcache/Code Cache
+AppData/Local/Steam/htmlcache/Cache
 AppData/Local/Thunderbird
+
+AppData/Roaming/.minecraft/assets
+AppData/Roaming/.minecraft/runtime
+AppData/Roaming/.tlauncher/jvms
 
 Mozilla/Firefox/Profiles/*/Cache
 Mozilla/Firefox/Profiles/*/cache2
@@ -44,4 +53,8 @@ mozilla/firefox/*/cache2
 
 Microsoft/Search/Data
 
+Program Files/Epic Games
 Program Files/WindowsApps
+
+Program Files (x86)/Epic Games
+Program Files (x86)/Steam
